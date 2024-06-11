@@ -77,10 +77,10 @@ export const herodescription = () => {
 };
 
 export const social = () => {
-  const inst = { img: instagram, link: "https://www.instagram.com/di_sykes9/" };
-  const lnkdn = { img: linkedin, link: "https://www.linkedin.com/in/bilostenko/" };
-  const gitHb = { img: gitHub, link: "https://github.com/Bilostenko" };
-  const fb = { img: facebook, link: "https://www.facebook.com/bilostenkod" };
+  const inst = { img: instagram, link: "#" };
+  const lnkdn = { img: linkedin, link: "#" };
+  const gitHb = { img: gitHub, link: "#" };
+  const fb = { img: facebook, link: "#" };
 
   return {
     inst,
